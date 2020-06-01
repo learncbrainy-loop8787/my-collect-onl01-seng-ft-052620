@@ -1,6 +1,6 @@
 def my_collection(array)
   i = 0
-  collection = o
+  collection = []
   while i < array.length
     yield(array[i])
     i += 1
